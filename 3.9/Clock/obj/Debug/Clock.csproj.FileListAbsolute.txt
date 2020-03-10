@@ -1,0 +1,7 @@
+C:\Users\95637\Desktop\CSharpHomework\3.9\Clock\bin\Debug\Clock.exe.config
+C:\Users\95637\Desktop\CSharpHomework\3.9\Clock\bin\Debug\Clock.exe
+C:\Users\95637\Desktop\CSharpHomework\3.9\Clock\bin\Debug\Clock.pdb
+C:\Users\95637\Desktop\CSharpHomework\3.9\Clock\obj\Debug\Clock.csprojAssemblyReference.cache
+C:\Users\95637\Desktop\CSharpHomework\3.9\Clock\obj\Debug\Clock.csproj.CoreCompileInputs.cache
+C:\Users\95637\Desktop\CSharpHomework\3.9\Clock\obj\Debug\Clock.exe
+C:\Users\95637\Desktop\CSharpHomework\3.9\Clock\obj\Debug\Clock.pdb
