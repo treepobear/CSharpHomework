@@ -1,0 +1,11 @@
+C:\Users\95637\Desktop\CSharpHomework\4.6\OrderWinForm\bin\Debug\OrderWinForm.exe.config
+C:\Users\95637\Desktop\CSharpHomework\4.6\OrderWinForm\bin\Debug\OrderWinForm.exe
+C:\Users\95637\Desktop\CSharpHomework\4.6\OrderWinForm\bin\Debug\OrderWinForm.pdb
+C:\Users\95637\Desktop\CSharpHomework\4.6\OrderWinForm\obj\Debug\OrderWinForm.csprojAssemblyReference.cache
+C:\Users\95637\Desktop\CSharpHomework\4.6\OrderWinForm\obj\Debug\OrderWinForm.Form1.resources
+C:\Users\95637\Desktop\CSharpHomework\4.6\OrderWinForm\obj\Debug\OrderWinForm.Properties.Resources.resources
+C:\Users\95637\Desktop\CSharpHomework\4.6\OrderWinForm\obj\Debug\OrderWinForm.csproj.GenerateResource.cache
+C:\Users\95637\Desktop\CSharpHomework\4.6\OrderWinForm\obj\Debug\OrderWinForm.csproj.CoreCompileInputs.cache
+C:\Users\95637\Desktop\CSharpHomework\4.6\OrderWinForm\obj\Debug\OrderWinForm.exe
+C:\Users\95637\Desktop\CSharpHomework\4.6\OrderWinForm\obj\Debug\OrderWinForm.pdb
+C:\Users\95637\Desktop\CSharpHomework\4.6\OrderWinForm\obj\Debug\OrderWinForm.Form2.resources
